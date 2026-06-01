@@ -1,6 +1,16 @@
-# Hello, hello, I'm Irene 🎬☁️
-
-**Junior DevOps Engineer** · From Seville, Spain · Currently deploying Kubernetes clusters while editing a shortfilm.
+<h1 align="center">Hello, hello, I'm Irene! 🎬☁️</h1>
+ 
+<p align="center">
+  <strong>Junior DevOps Engineer · From Spain · Occasional Filmmaker</strong>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/irene-romero-devops-engineer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ireneromero95">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
 I came from the film industry — directing, producing, distributing. Somewhere along the way I fell into DevOps and never looked back. Turns out infrastructure and filmmaking have more in common than you'd think: both are about orchestrating complex systems so everything runs smoothly and nobody notices the work behind the scenes.
 
@@ -41,6 +51,10 @@ Tools                Bash · Git · Linux · YAML · SSH
 🇪🇸 Spanish · 🇬🇧 English
 
 ---
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ireneromero95&theme=dark" />
+</p>
+---
 
 ## 📫 Find me
 
@@ -49,4 +63,4 @@ Tools                Bash · Git · Linux · YAML · SSH
 
 ---
 
-*"In theatres now."*
+*"In theaters now."*
