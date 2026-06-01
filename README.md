@@ -1,4 +1,4 @@
-# Hey, I'm Irene 🎬☁️
+# Hello, hello, I'm Irene 🎬☁️
 
 **Junior DevOps Engineer** · From Seville, Spain · Currently deploying Kubernetes clusters while editing a shortfilm.
 
@@ -49,4 +49,4 @@ Tools                Bash · Git · Linux · YAML · SSH
 
 ---
 
-*"The best systems are the ones where nothing seems to be happening — because everything already is."*
+*"In theatres now."*
